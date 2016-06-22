@@ -1,10 +1,7 @@
 # Proyecto Web Básica
 Práctica sobre html y css con responsive design
 
-## Antes de empezar
-[Realiza un fork de mi repositorio](https://github.com/juanda99/proyecto_web_basica/) , así podré hacer un seguimiento de tu trabajo. 
 
-Descarga el proyecto de **tu repositorio** ya sea mediante **git clone <url_repo>** o descargando el zip desde GitHub
 
 ## Requerimientos generales
 Realiza un commit por cada cambio o cambios relacionados que realices en el proyecto. Los mensajes de los commit tienen que ser claros. Cuelga tu desarrollo en un sitio web y proporciona la URL.
@@ -30,18 +27,5 @@ Modifica el README para que queden solo:
     - Realizar templates de elementos repetitivos como el footer y el header (propongo usar handlebars).
     - Realizar el menú responsivo
 
-- Página de inicio:
-
-    ![](./sources//Inicio.png)
-
-- Página con listado:
-
-    ![](./sources/cervezas.png)
-
-- Formulario de contacto:
-
-    ![](./sources/contactar.png)
-
-- Vista movil:
-
-    ![](./sources/inicio_mobile.png)
+## Mi url
+[web de la practica](PRACTICA)
